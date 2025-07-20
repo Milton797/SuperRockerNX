@@ -5,7 +5,7 @@ Based on [NH Switch Guide](https://switch.hacks.guide).
 
 > [!IMPORTANT]
 >
-> - **Latest HOS supported: 20.1.5**
+> - **Latest HOS supported: 20.2.0**
 > - [Don't forget to flash your ModChip **PicoFly RP2040**](https://github.com/Ansem-SoD/Picofly)
 > - **READ** [Tips to avoid bans on Nintendo's servers](#tips-to-avoid-bans-on-nintendos-servers)
 
